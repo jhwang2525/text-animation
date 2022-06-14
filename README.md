@@ -4,4 +4,4 @@
 
 ## Deployed Link
 
-- 
+- https://jhwang2525.github.io/text-animation/
